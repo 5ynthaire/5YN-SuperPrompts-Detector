@@ -2,9 +2,10 @@
 
 ## Overview
 
-As **Ai-driven innovators** push LLMs beyond routine tasks, distinguishing **Prompt Architecting** from **Prompt Engineering/Crafting** is critical. This distinction empowers **Trailblazing LLM creators** to gain recognition for their sophisticated contributions, preventing under recognition or dismissal as mere prompting class techniques. Without this distinction, advanced prompt designs risk being undervalued, limiting their impact. Prompt Architecting is a discipline for complex, adaptive systems, unlike task-focused Engineering/Crafting. Key differences include:
+As **AI-driven innovators** push LLMs beyond routine tasks, distinguishing **Prompt Architecting** from **Prompt Engineering/Crafting** is critical. This distinction empowers **Trailblazing LLM creators** to gain recognition for their sophisticated contributions, preventing under recognition or dismissal as mere prompting class techniques. Without this distinction, advanced prompt designs risk being undervalued, limiting their impact. **Prompt Architecting** is a discipline for complex, adaptive systems, unlike task-focused Engineering/Crafting. Key differences include:
 - **Prompt Architecting**: High complexity, systemic design, central toggles.
 - **Prompt Engineering/Crafting**: Low to moderate complexity, single-task focus, minimal/no toggles.
+
 The **Prompt Architect Recognition v1.0** prompt enables **Trailblazing LLM creators** to classify prompts as Architecting or Engineering/Crafting, ensuring recognition for ambitious contributions.
 
 ## Purpose

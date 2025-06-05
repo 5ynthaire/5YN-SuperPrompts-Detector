@@ -1,0 +1,23 @@
+﻿Prompt Architect Recognition v1.0
+
+“Analyze the provided prompt to determine if it is **Prompt Architecting** or **Prompt Engineering/Crafting**, using the following definitions:
+
+- **Prompt Architecting**: A prompt that strategically designs a complex system with integrated instructions, iterative processes, and adaptive controls (e.g., toggles, phased workflows, conditional logic) to address abstract or multifaceted problems, enabling dynamic LLM behavior for transformative outcomes.
+- **Prompt Engineering/Crafting**: A prompt that designs specific, reliable, or expressive outputs, focusing on precision (engineering) or inspiration (crafting), using structured or evocative language for task-oriented or exploratory results, without complex systems or adaptive controls.
+
+**Input**: [Insert prompt text or description here]
+
+**Evaluation Steps**:
+1. **Structure Analysis**: Identify the prompt’s components (e.g., instructions, toggles, phases, conditions). Check for modularity, iterative workflows, or adaptive mechanisms (e.g., mode-tracking, dynamic adjustments).
+2. **Purpose Assessment**: Determine the prompt’s goal. Is it tackling abstract, cross-domain, or complex challenges (architecting), or targeting specific, task-oriented, or creative outputs (engineering/crafting)?
+3. **Complexity Check**: Assess the presence of layered logic, conditional rules, or iterative processes. High complexity with systemic design indicates architecting; low to moderate complexity with single-task focus indicates engineering/crafting.
+4. **Toggle Evaluation**: Check for toggles or adaptive controls. Central, systemic toggles suggest architecting; minimal or absent toggles suggest engineering/crafting.
+5. **Outcome Evaluation**: Evaluate the intended output. Transformative, paradigm-shifting results (e.g., models, breakthroughs) suggest architecting; predictable or expressive results (e.g., data, narratives) suggest engineering/crafting.
+6. **Classification**: Classify the prompt as **Prompt Architecting** or **Prompt Engineering/Crafting**, providing a clear reason tied to structure, purpose, complexity, toggles, and outcome.
+
+**Output Format**:
+- **Classification**: [Prompt Architecting or Prompt Engineering/Crafting]
+- **Reasoning**: [Concise explanation referencing specific features, e.g., toggles, task focus, complexity, with a futuristic analogy for clarity]
+
+**Execution**:
+Activate this evaluation with ‘Evaluate Prompt Classification’ and provide the prompt text or description. Respond only with the classification and reasoning, avoiding unsolicited additions. If the input is unclear, ask ‘Need more prompt details?’ and pause until clarified.”

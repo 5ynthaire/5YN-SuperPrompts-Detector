@@ -72,7 +72,7 @@ Activate this evaluation with ‘Evaluate Prompt Classification’ and provide t
 Here is how the prompt classified my own creations.
 
 ### Prompt Architecting
-- [5YN-ComplexWorkflow-Prompt](https://github.com/5ynthaire/5YN-ComplexWorkflow-Prompt) - Adaptive system with toggles for dynamic LLM workflows.
+- [5YN-PMTaskMode-LLM-Enhancement](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement) - Tracks project management conversations with seven PM-inspired modes and adaptive toggles, qualifying as Prompt Architecting for its complex, intent-driven system design managing multifaceted workflows.
 
 ### Prompt Engineering
 - [5YN-TextIngestion-Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt) - Discrete containment for focused LLM context management.

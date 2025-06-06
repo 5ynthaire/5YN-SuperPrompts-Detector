@@ -1,4 +1,4 @@
-﻿# Prompt Architect Recognition v1.0
+# Prompt Architect Recognition v1.0
 
 ## Overview
 

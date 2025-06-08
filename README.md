@@ -1,3 +1,4 @@
+![Prompt Architect Recognition v1.0](banner.png)
 # Prompt Architect Recognition v1.0
 
 ## Overview

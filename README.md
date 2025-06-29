@@ -74,13 +74,13 @@ Here is how the prompt classified my own creations.
 
 ### Prompt Architecting
 
-- [5YN-PMTaskMode-LLM-Enhancement](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement) - Tracks project management conversations with seven PM-inspired modes and adaptive toggles, qualifying as Prompt Architecting for its complex, intent-driven system design managing multifaceted workflows.
-- [5YN-TangramDecisionDriver-LLM-Enhancement](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement) - Guides decision-making with iterative rounds, metrics toggles, and conditional question switching, qualifying as Prompt Architecting for its adaptive system delivering transformative clarity across complex contexts.
-- [5YN-AbstractReasoningPrompt-LLM-Enhancement](https://github.com/5ynthaire/5YN-AbstractReasoningPrompt-LLM-Enhancement) - Enhances abstract reasoning with toggleable control, phased workflows, and dynamic riff scaling, qualifying as Prompt Architecting for its adaptive system generating transformative insights for complex inputs.
+- [FlowMode Prompt](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement) - Tracks project management conversations with seven PM-inspired modes and adaptive toggles, qualifying as Prompt Architecting for its complex, intent-driven system design managing multifaceted workflows.
+- [Tangram Decision Driver](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement) - Guides decision-making with iterative rounds, metrics toggles, and conditional question switching, qualifying as Prompt Architecting for its adaptive system delivering transformative clarity across complex contexts.
+- [Abstract Reasoning Prompt](https://github.com/5ynthaire/5YN-AbstractReasoning-LLM-Enhancement) - Enhances abstract reasoning with toggleable control, phased workflows, and dynamic riff scaling, qualifying as Prompt Architecting for its adaptive system generating transformative insights for complex inputs.
 
 ### Prompt Engineering
 
-- [5YN-TextIngestion-Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt) - Discrete containment for focused LLM context management.
+- [Text Ingestion Prompt](https://github.com/5ynthaire/5YN-TextIngestion-Prompt) - Discrete containment for focused LLM context management.
 
 ## License
 

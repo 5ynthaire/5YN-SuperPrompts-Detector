@@ -76,6 +76,7 @@ Here is how the prompt classified my own creations.
 
 - [5YN-PMTaskMode-LLM-Enhancement](https://github.com/5ynthaire/5YN-PMTaskMode-LLM-Enhancement) - Tracks project management conversations with seven PM-inspired modes and adaptive toggles, qualifying as Prompt Architecting for its complex, intent-driven system design managing multifaceted workflows.
 - [5YN-TangramDecisionDriver-LLM-Enhancement](https://github.com/5ynthaire/5YN-TangramDecisionDriver-LLM-Enhancement) - Guides decision-making with iterative rounds, metrics toggles, and conditional question switching, qualifying as Prompt Architecting for its adaptive system delivering transformative clarity across complex contexts.
+- [5YN-AbstractReasoningPrompt-LLM-Enhancement](https://github.com/5ynthaire/5YN-AbstractReasoningPrompt-LLM-Enhancement) - Enhances abstract reasoning with toggleable control, phased workflows, and dynamic riff scaling, qualifying as Prompt Architecting for its adaptive system generating transformative insights for complex inputs.
 
 ### Prompt Engineering
 
